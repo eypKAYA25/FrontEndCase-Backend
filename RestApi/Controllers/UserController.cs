@@ -47,7 +47,7 @@ namespace RestApi.Controllers
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<IActionResult> UpdateBuyerLimit([FromBody] UpdateUserRequestModel requestModel,
+        public async Task<IActionResult> UpdateUser([FromBody] UpdateUserRequestModel requestModel,
             CancellationToken cancellationToken)
         {
             UpdateUserBusinessRequest request = new UpdateUserBusinessRequest(this.User);
