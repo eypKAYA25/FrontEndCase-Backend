@@ -1,0 +1,17 @@
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/bin/Debug/net7.0/Registration
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/bin/Debug/net7.0/Registration.deps.json
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/bin/Debug/net7.0/Registration.runtimeconfig.json
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/bin/Debug/net7.0/Registration.dll
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/bin/Debug/net7.0/Registration.pdb
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/obj/Debug/net7.0/Registration.csproj.AssemblyReference.cache
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/obj/Debug/net7.0/Registration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/obj/Debug/net7.0/Registration.AssemblyInfoInputs.cache
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/obj/Debug/net7.0/Registration.AssemblyInfo.cs
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/obj/Debug/net7.0/Registration.csproj.CoreCompileInputs.cache
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/obj/Debug/net7.0/Registration.csproj.CopyComplete
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/obj/Debug/net7.0/Registration.dll
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/obj/Debug/net7.0/refint/Registration.dll
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/obj/Debug/net7.0/Registration.pdb
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/obj/Debug/net7.0/Registration.genruntimeconfig.cache
+/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/obj/Debug/net7.0/ref/Registration.dll

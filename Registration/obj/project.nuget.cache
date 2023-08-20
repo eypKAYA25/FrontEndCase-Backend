@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hC7ftt0kGhRy7haClKxqxpxv+yGqQDDzDE7AaUAWNcP3T09ht8xXX9aXZ3WYF8xYdGCKBCYUl3BMOdHCqHeBGw==",
+  "success": true,
+  "projectFilePath": "/Users/fonradar/RiderProjects/Fonradar.FrontEnd.Case/Registration/Registration.csproj",
+  "expectedPackageFiles": [
+    "/Users/fonradar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
